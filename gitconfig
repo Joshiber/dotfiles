@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = @users.noreply.github.com
-	name = gh api @users.noreply.github.com
+	email = gh api joshilieb@gmail.com
+	name = Joshua Lieb
